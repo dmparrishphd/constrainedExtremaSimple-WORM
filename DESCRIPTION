@@ -1,0 +1,11 @@
+Package: constrainedExtremaSimple
+Title: Simple, Constrained Extrema
+Version: 0.0-0
+Author: D. Michael Parrish [aut]
+Maintainer: Neat O <neatoverse@yahoo.com>
+License: AGPL-3
+Encoding: UTF-8
+Description: Several functions for solving simple constrained
+    extrema problems are included.
+        This repository develops only by the addition of new
+    files.
