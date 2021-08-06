@@ -1,0 +1,8 @@
+EXPORT,"R_CODE"
+FALSE,"inst/extdata/R/PD.vapply/1.R"
+FALSE,"inst/extdata/R/PD.extreme/1.R"
+TRUE,"inst/extdata/R/maxlt/1.R"
+TRUE,"inst/extdata/R/maxle/1.R"
+TRUE,"inst/extdata/R/minge/1.R"
+TRUE,"inst/extdata/R/mingt/1.R"
+TRUE,"inst/extdata/R/rangeNeat/1.R"
